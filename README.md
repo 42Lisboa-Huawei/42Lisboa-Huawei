@@ -25,4 +25,5 @@ The event took place on the 25th of August, 2021, at [**42 Lisboa**](https://42l
 - [Tiago Santos](https://github.com/Olbrien/)
 - [Mariana Valdetaro](https://github.com/m4r11)
 - [Miguel Gueifão](https://github.com/fletcher97)
+- [Przemysław Śleziak](https://github.com/psleziak42)
 - [Alexandre Pinto](https://github.com/protsaq)
