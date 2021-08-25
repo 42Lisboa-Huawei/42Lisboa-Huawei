@@ -1,8 +1,10 @@
 # Welcome to the Huawei Summer School @ 42Lisboa! 👩‍💻
 
-[**👉 Click here for the presentation**](https://colab.research.google.com/drive/14b_WjWSmX3uAogaXIBfXLOzsArJvJcnS)
+👉 [**Click here for the presentation**](https://colab.research.google.com/drive/14b_WjWSmX3uAogaXIBfXLOzsArJvJcnS)
 
 We hope it was informative and fun! 
+
+You can check all the individual projects and solutions in the [**repositories**](https://github.com/42Lisboa-Huawei/Huawei-SS-Projects)! 🖥 
 
 All programming was done in [**Python**](https://www.python.org/); the presentation on the language was produced with [**Jupyter**](https://jupyter.org/), having [**RISE**](https://rise.readthedocs.io/en/stable/) as the tool for the presentation. 
 
